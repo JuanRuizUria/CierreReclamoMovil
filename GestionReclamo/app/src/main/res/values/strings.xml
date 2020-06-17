@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GestionReclamo</string>
+
+    <string name="switch_consumidor">Consumidor ausente</string>
+    <string name="multiline_detalle">Detalle</string>
+    <string name="txt_respuesta">Respuesta</string>
+    <string name="txt_derivar">Derivar</string>
+    <string name="btn_confirmar">Confirmar</string>
+</resources>
